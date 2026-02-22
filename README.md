@@ -29,7 +29,13 @@ IoT Developer • Embedded Systems Engineer • AI + Hardware Innovator
 
 ---
 
-<!-- ================= ABOUT SECTION ================= -->
+<!-- ================= LIVE DASHBOARD ================= -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DipendaMahato&theme=tokyonight"/>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -39,16 +45,14 @@ IoT Developer • Embedded Systems Engineer • AI + Hardware Innovator
 
 Electrical & Electronics Engineering student passionate about building intelligent systems combining **IoT, Artificial Intelligence, Embedded Hardware, and Cloud Technologies**.
 
-I specialize in real-world automation, Industry 4.0 solutions, and AI-powered healthcare systems deployed on ESP32 and Raspberry Pi.
+I focus on developing real-world automation, Industry 4.0 solutions, and AI-powered healthcare systems deployed on ESP32 and Raspberry Pi.
 
 ---
-
-<!-- ================= ENGINEERING FOCUS ================= -->
 
 ## ⚡ Engineering Focus
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
 <p align="center">
@@ -60,9 +64,11 @@ I specialize in real-world automation, Industry 4.0 solutions, and AI-powered he
 
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=80&section=footer"/>
+</p>
 
-<!-- ================= TECH STACK ================= -->
+---
 
 ## 🧰 Technology Stack
 
@@ -93,13 +99,26 @@ I specialize in real-world automation, Industry 4.0 solutions, and AI-powered he
 
 ---
 
-<!-- ================= ANALYTICS ================= -->
+## ⚙️ Development Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipendaMahato&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DipendaMahato&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievement
+
+🥇 **Winner — MSME Industry 4.0 Innovation Challenge**
+
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DipendaMahato&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipendaMahato&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DipendaMahato&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipendaMahato&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
@@ -112,8 +131,6 @@ I specialize in real-world automation, Industry 4.0 solutions, and AI-powered he
 
 ---
 
-<!-- ================= ACTIVITY ================= -->
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -122,29 +139,10 @@ I specialize in real-world automation, Industry 4.0 solutions, and AI-powered he
 
 ---
 
-<!-- ================= CURRENT WORK ================= -->
+## 🧠 Engineering Status
 
-## 🚀 Currently Building
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
-</p>
-
-<p align="center">
-
-AI-Powered Smart Healthcare Systems  
-Edge AI Computer Vision Applications  
-Industry 4.0 IoT Automation Platforms  
-Market-Ready Smart Embedded Products  
-
-</p>
-
----
-
-<!-- ================= PHILOSOPHY ================= -->
-
-## ⭐ Philosophy
-
-<p align="center">
-<b>"Innovation begins where hardware meets intelligence."</b>
-</p>
+```diff
++ Focus Area      : Edge AI & IoT Systems
++ Current Domain  : Industry 4.0 Automation
++ Deployment      : Raspberry Pi & Embedded Platforms
++ Goal            : Building Market-Ready Smart Products
