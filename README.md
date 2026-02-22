@@ -10,17 +10,26 @@ IoT Developer • Embedded Systems Engineer • AI + Hardware Innovator
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Smart+IoT+Products;Edge+AI+Developer;Embedded+Systems+Innovator;Turning+Ideas+Into+Real+World+Technology" />
 </p>
 
+<!-- ================= CONTACT SECTION ================= -->
+
 <p align="center">
+
   <a href="mailto:dipendramahato1000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-dipendramahato1000%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/dipendra-mahato">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Dipendra%20Mahato-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://dipendramahato.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
+
+  <img src="https://img.shields.io/badge/Phone-%2B91%206201158797-success?style=for-the-badge&logo=phone&logoColor=white"/>
+
   <img src="https://komarev.com/ghpvc/?username=DipendaMahato&style=for-the-badge&color=blue"/>
+
 </p>
 
 <p align="center">
@@ -45,14 +54,14 @@ IoT Developer • Embedded Systems Engineer • AI + Hardware Innovator
 
 Electrical & Electronics Engineering student passionate about building intelligent systems combining **IoT, Artificial Intelligence, Embedded Hardware, and Cloud Technologies**.
 
-I focus on developing real-world automation, Industry 4.0 solutions, and AI-powered healthcare systems deployed on ESP32 and Raspberry Pi.
+Focused on real-world automation, Industry 4.0 solutions, and AI-powered healthcare systems deployed on ESP32 and Raspberry Pi.
 
 ---
 
 ## ⚡ Engineering Focus
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340"/>
 </p>
 
 <p align="center">
@@ -62,10 +71,6 @@ I focus on developing real-world automation, Industry 4.0 solutions, and AI-powe
 ✔ Hardware–Software–Cloud Integration  
 ✔ Industry 4.0 Smart Technology Solutions  
 
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=80&section=footer"/>
 </p>
 
 ---
@@ -111,15 +116,6 @@ I focus on developing real-world automation, Industry 4.0 solutions, and AI-powe
 ## 🏆 Achievement
 
 🥇 **Winner — MSME Industry 4.0 Innovation Challenge**
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DipendaMahato&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipendaMahato&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
 
 ---
 
